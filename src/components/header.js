@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 
-function header(props) {
+export default function header() {
+    return (
+        <h1 className={header}>Nathan Sabin</h1>
+    )
 }
-
-export default Header;
