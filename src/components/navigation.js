@@ -9,7 +9,7 @@ export default function Navigation() {
   return (
     <div>
         <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
+            <ol className="breadcrumb">
                 <li className='breadcrumb-item' onClick={()=> setTab('home')}>About me</li>
                 <li className="breadcrumb-item" onClick={()=> setTab('portfolio')}>Portfolio</li>
                 <li className="breadcrumb-item" onClick={()=> setTab('resume')}>Resume</li>

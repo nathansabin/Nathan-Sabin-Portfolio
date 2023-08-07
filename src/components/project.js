@@ -5,14 +5,14 @@ import Portfolio from './pages/portfolio';
 import Resume from './pages/resume';
 
 export default function Project(props) {
-    const tab = props.tab;
+    const tab = props.renderTab;
 
     return(
         <div>
             {tab === 'home' && <About />}
             {tab === 'portfolio' && <Portfolio />}
             {tab === 'resume' && <Resume />}
-            {tab === 'Contact' && <Contact />}
+            {tab === 'contact' && <Contact />}
         </div>
     )
 }
