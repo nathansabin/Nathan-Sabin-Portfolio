@@ -8,14 +8,12 @@ export default function Navigation() {
   // set style
   return (
     <div>
-        <nav aria-label="breadcrumb">
-            <ol className="breadcrumb">
-                <li className='breadcrumb-item' onClick={()=> setTab('home')}>About me</li>
-                <li className="breadcrumb-item" onClick={()=> setTab('portfolio')}>Portfolio</li>
-                <li className="breadcrumb-item" onClick={()=> setTab('resume')}>Resume</li>
-                <li className="breadcrumb-item" onClick={()=> setTab('contact')}>Contact</li>
-            </ol>
-        </nav>
+        <ol className="navbar">
+            <li onClick={()=> setTab('home')}>About</li>
+            <li onClick={()=> setTab('portfolio')}>Portfolio</li>
+            <li onClick={()=> setTab('resume')}>Resume</li>
+            <li onClick={()=> setTab('contact')}>Contact</li>
+        </ol>
         <Project renderTab={tab} />
     </div>
   )

@@ -2,6 +2,8 @@ import React, { useState } from 'react';
 
 export default function header() {
     return (
-        <h1 className="header">Nathan Sabin</h1>
+        <div className="name">
+            <h1>Nathan Sabin</h1>
+        </div>
     )
 }
