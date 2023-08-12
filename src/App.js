@@ -1,18 +1,11 @@
 import './assets/style/bodytags.css';
-import Header from './components/header';
+import HeadTag from './components/navigation';
 import Footer from './components/footer';
-import Navigation from './components/navigation'
-import Project from './components/project';
 
 function App() {
   return (
     <div className="portfolio">
-      <div className="header">
-        <div className="header-content">
-        <Header />
-        <Navigation />
-        </div>
-      </div>
+      <HeadTag />
       <Footer />
     </div>
   );

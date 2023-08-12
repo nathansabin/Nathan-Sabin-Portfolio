@@ -16,7 +16,7 @@
 }
 
 .header-content {
-    width: 1000px;
+    width: 70%;
     height: 100%;
     display: block;
     margin: 0 auto;
@@ -52,7 +52,7 @@
     vertical-align: middle;
     font-size: 24px;
     margin-left: 10px; 
-    margin-top: 15px;
+    margin-top: 18px;
 }
 
 .footer {
@@ -60,3 +60,34 @@
     bottom: 0;
     width: 100%;
   }
+  
+
+@media (max-width: 750px) {
+    .name h1 {
+        font-size: 24px;
+    }
+    .navbar li {
+        font-size: 16px;
+        margin-top: 25px
+    }
+}
+
+@media (max-width: 540px) {
+    .header {
+       height: 95px; 
+    }
+    .name {
+        margin-top: 10px;
+    }
+    .name h1 {
+        vertical-align: 0%;
+        margin-top: 10px;
+    }
+    .navbar {
+        float: none;
+        
+    }
+    .navbar li {
+        margin-top: 50px;
+    }
+}
