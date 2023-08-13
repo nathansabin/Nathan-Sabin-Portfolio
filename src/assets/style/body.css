@@ -38,3 +38,44 @@ h4 a:hover {
     text-decoration: underline;
 }
 
+.img-con {
+    margin: 15px auto;
+    margin-top: 15px;
+    width: 95%;
+    height: auto;
+    box-sizing: border-box;
+}
+
+.image {
+    float: left;
+    width: 45%;
+    height: auto;
+    border-radius: 15px;
+    background-color: #F1BF98;
+    padding: 15px;
+    padding-top: 25px; /* Adjust this value to control the space for text */
+    margin-left: 3.5%; 
+    margin-top: 3%;
+    position: relative; /* Add this to establish positioning context */
+}
+
+.image img {
+    width: 100%;
+    height: auto;
+}
+
+.image h3 {
+    margin: 0;
+    font-size: 24px;
+    color: white;
+}
+
+.bottom-page {
+    margin-bottom: 135px;
+}
+
+@media (max-width: 570px) {
+    .image h3 {
+        font-size: 16px;
+    }
+}

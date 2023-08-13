@@ -2,9 +2,9 @@ import React, { useState } from 'react';
 
 export default function Resume() {
     return (
-        <div class='box-set'>
-            <div class='box-about'>
-                <div class='resume'>
+        <div className='box-set'>
+            <div className='box-about'>
+                <div className='resume'>
                 <div>
                     <h2>Nathan Sabin</h2>
                     <p>
@@ -41,7 +41,7 @@ export default function Resume() {
                 </div>
                 <div>
                     <h3>PROJECTS</h3> 
-                    <h4><a class='no-dec' href='https://github.com/allister-seras/MyPokedex'>MyPokedex</a></h4>
+                    <h4><a href='https://github.com/allister-seras/MyPokedex'>MyPokedex</a></h4>
                     <p>
                         This website allows users to create accounts, save pokemon teams, search pokemon and view stats.
                         I developed the API/ ORM along with connecting it into the pages on the front end. 
