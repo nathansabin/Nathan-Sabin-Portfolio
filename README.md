@@ -2,3 +2,4 @@
 ## TODOs
 . STYLE
 . tabs
+.mobile sizeing
