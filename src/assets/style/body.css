@@ -1,5 +1,5 @@
 .box-set {
-    margin: 25px auto;
+    margin: -100px auto;
     margin-bottom: 135px;
     display: block;
     width: 85%;
@@ -114,8 +114,22 @@ h4 a:hover {
 .email-button {
     border: 0;
     margin: auto;
-    width: 80px;
+    width: 95px;
     height: 55px;
     background-color: #E1F4CB;
     border-radius: 15px;
+}
+
+.portrait {
+    margin-bottom: 15px;
+    margin-top: 0;
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 50%;
+    background-color: #BACBA9;
+}
+
+.portrait img { 
+    width: 100%;
+    height: auto;
 }
