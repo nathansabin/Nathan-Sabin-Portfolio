@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Nathan-Sabin-portfolio/static/css/main.7bd6288d.css",
+    "main.css": "/Nathan-Sabin-portfolio/static/css/main.8c6356dc.css",
     "main.js": "/Nathan-Sabin-portfolio/static/js/main.e22742e5.js",
     "static/media/portrait.png": "/Nathan-Sabin-portfolio/static/media/portrait.ffc4807f0e478ad4f858.png",
     "static/media/pokedex.png": "/Nathan-Sabin-portfolio/static/media/pokedex.59bef08f54473b1291e9.png",
@@ -12,11 +12,11 @@
     "static/media/svg-gen.jpg": "/Nathan-Sabin-portfolio/static/media/svg-gen.156d1dfa16198863bb32.jpg",
     "static/media/GitHub.png": "/Nathan-Sabin-portfolio/static/media/GitHub.05525cd9027955dbe054.png",
     "index.html": "/Nathan-Sabin-portfolio/index.html",
-    "main.7bd6288d.css.map": "/Nathan-Sabin-portfolio/static/css/main.7bd6288d.css.map",
+    "main.8c6356dc.css.map": "/Nathan-Sabin-portfolio/static/css/main.8c6356dc.css.map",
     "main.e22742e5.js.map": "/Nathan-Sabin-portfolio/static/js/main.e22742e5.js.map"
   },
   "entrypoints": [
-    "static/css/main.7bd6288d.css",
+    "static/css/main.8c6356dc.css",
     "static/js/main.e22742e5.js"
   ]
 }
