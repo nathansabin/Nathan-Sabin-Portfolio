@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Nathan-Sabin-portfolio/static/css/main.7bd6288d.css",
+    "main.js": "/Nathan-Sabin-portfolio/static/js/main.e22742e5.js",
+    "static/media/portrait.png": "/Nathan-Sabin-portfolio/static/media/portrait.ffc4807f0e478ad4f858.png",
+    "static/media/pokedex.png": "/Nathan-Sabin-portfolio/static/media/pokedex.59bef08f54473b1291e9.png",
+    "static/media/eCommerce.jpg": "/Nathan-Sabin-portfolio/static/media/eCommerce.6d5248a0e05635e542c1.jpg",
+    "static/media/social-media odm.jpg": "/Nathan-Sabin-portfolio/static/media/social-media odm.efa18243c0534c869df9.jpg",
+    "static/media/READMEGEN.png": "/Nathan-Sabin-portfolio/static/media/READMEGEN.41ff932a11d40625fd07.png",
+    "static/media/Jate.jpg": "/Nathan-Sabin-portfolio/static/media/Jate.79a0231add5e4bce98ee.jpg",
+    "static/media/linkedin.png": "/Nathan-Sabin-portfolio/static/media/linkedin.d2d74627d1c635c57971.png",
+    "static/media/svg-gen.jpg": "/Nathan-Sabin-portfolio/static/media/svg-gen.156d1dfa16198863bb32.jpg",
+    "static/media/GitHub.png": "/Nathan-Sabin-portfolio/static/media/GitHub.05525cd9027955dbe054.png",
+    "index.html": "/Nathan-Sabin-portfolio/index.html",
+    "main.7bd6288d.css.map": "/Nathan-Sabin-portfolio/static/css/main.7bd6288d.css.map",
+    "main.e22742e5.js.map": "/Nathan-Sabin-portfolio/static/js/main.e22742e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bd6288d.css",
+    "static/js/main.e22742e5.js"
+  ]
+}
