@@ -75,19 +75,29 @@
 @media (max-width: 540px) {
     .header {
        height: 95px; 
+
     }
     .name {
         margin-top: 10px;
+        width: 100%;
+        text-align: center;
     }
     .name h1 {
         vertical-align: 0%;
         margin-top: 10px;
+        width: 100%;
+        text-align: center;
     }
     .navbar {
+        position: relative;
+        top: -65px;
+        display: inline;
         float: none;
-        
+        width: 100%;
+        text-align: center;
     }
+
     .navbar li {
-        margin-top: 50px;
+        margin: 5px 0; 
     }
 }

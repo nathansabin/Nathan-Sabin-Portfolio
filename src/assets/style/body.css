@@ -53,10 +53,10 @@ h4 a:hover {
     border-radius: 15px;
     background-color: #F1BF98;
     padding: 15px;
-    padding-top: 25px; /* Adjust this value to control the space for text */
+    padding-top: 25px; 
     margin-left: 3.5%; 
     margin-top: 3%;
-    position: relative; /* Add this to establish positioning context */
+    position: relative;
 }
 
 .image img {
@@ -76,6 +76,46 @@ h4 a:hover {
 
 @media (max-width: 570px) {
     .image h3 {
-        font-size: 16px;
+        font-size: 12px;
     }
+}
+
+.email-format {
+    text-align: center;
+    display: block;
+    width: 90%;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 15px;
+    background-color:#BACBA9; 
+    border-radius: 15px;
+    padding:15px;
+}
+
+.email-info {
+    text-align: justify;
+    margin-bottom: 15px;
+    width: 95%;
+    height: auto;
+    border: 0;
+    background-color: #E1F4CB;
+    border-radius: 12px;
+}
+
+.email-message {
+    margin-bottom: 15px;
+    width: 95%;
+    height: 200px;
+    border: 0;
+    background-color: #E1F4CB;
+    border-radius: 15px;
+}
+
+.email-button {
+    border: 0;
+    margin: auto;
+    width: 80px;
+    height: 55px;
+    background-color: #E1F4CB;
+    border-radius: 15px;
 }
