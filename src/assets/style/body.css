@@ -23,6 +23,24 @@
     margin: 5%;
 }
 
+.resume-set {
+    margin: 25px auto;
+    margin-bottom: 135px;
+    display: block;
+    width: 85%;
+    height: auto;
+}
+
+.resume-about {
+    height: 80%;
+    width: 80%;
+    background-color: #BACBA9;
+    display: table-cell;
+    vertical-align: middle;
+    margin: 0 auto;
+    border-radius: 25px;
+}
+
 .resume {
     display: table;
     color: white;

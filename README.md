@@ -23,7 +23,7 @@ This is a portfolio built using React. It features four main tabs: About, Portfo
 
 
 To view the portfolio, please visit the following link:
-
+https://nathansabin.github.io/Nathan-Sabin-Portfolio/
 
 [Portfolio Link](#insert-your-portfolio-link-here)
 
