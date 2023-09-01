@@ -5,7 +5,7 @@ import jate from '../../assets/images/Jate.jpg';
 import pokedex from '../../assets/images/pokedex.png';
 import readme from '../../assets/images/READMEGEN.png';
 import social from '../../assets/images/social-media odm.jpg';
-import svg from '../../assets/images/svg-gen.jpg';
+import astrolog from '../../assets/images/astrolog.png';
 
 export default function Portfolio() {
     return (
@@ -31,8 +31,8 @@ export default function Portfolio() {
                 <a href='https://github.com/allister-seras/MyPokedex'><img src={pokedex} alt='pokedex Image'></img></a>
             </div>
             <div className='image bottom-page'>
-                <h3>SVG generator OOP</h3>
-                <a href='https://github.com/nathansabin/svg-file-generator'><img src={svg} alt='svg-gen Image'></img></a>
+                <h3>AstroLog</h3>
+                <a href='https://github.com/allister-seras/AstroLog'><img src={astrolog} alt='astrolog Image'></img></a>
             </div>
         </div>
     )
