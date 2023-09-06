@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Nathan-Sabin-Portfolio/static/css/main.8d556401.css",
-    "main.js": "/Nathan-Sabin-Portfolio/static/js/main.2bf67e71.js",
+    "main.js": "/Nathan-Sabin-Portfolio/static/js/main.aa1b8ca6.js",
     "static/media/portrait.png": "/Nathan-Sabin-Portfolio/static/media/portrait.ffc4807f0e478ad4f858.png",
     "static/media/pokedex.png": "/Nathan-Sabin-Portfolio/static/media/pokedex.59bef08f54473b1291e9.png",
     "static/media/eCommerce.jpg": "/Nathan-Sabin-Portfolio/static/media/eCommerce.6d5248a0e05635e542c1.jpg",
+    "static/media/astrolog.png": "/Nathan-Sabin-Portfolio/static/media/astrolog.1ca6d85479c87d07601f.png",
     "static/media/social-media odm.jpg": "/Nathan-Sabin-Portfolio/static/media/social-media odm.efa18243c0534c869df9.jpg",
     "static/media/READMEGEN.png": "/Nathan-Sabin-Portfolio/static/media/READMEGEN.41ff932a11d40625fd07.png",
     "static/media/Jate.jpg": "/Nathan-Sabin-Portfolio/static/media/Jate.79a0231add5e4bce98ee.jpg",
     "static/media/linkedin.png": "/Nathan-Sabin-Portfolio/static/media/linkedin.d2d74627d1c635c57971.png",
-    "static/media/svg-gen.jpg": "/Nathan-Sabin-Portfolio/static/media/svg-gen.156d1dfa16198863bb32.jpg",
     "static/media/GitHub.png": "/Nathan-Sabin-Portfolio/static/media/GitHub.05525cd9027955dbe054.png",
     "index.html": "/Nathan-Sabin-Portfolio/index.html",
     "main.8d556401.css.map": "/Nathan-Sabin-Portfolio/static/css/main.8d556401.css.map",
-    "main.2bf67e71.js.map": "/Nathan-Sabin-Portfolio/static/js/main.2bf67e71.js.map"
+    "main.aa1b8ca6.js.map": "/Nathan-Sabin-Portfolio/static/js/main.aa1b8ca6.js.map"
   },
   "entrypoints": [
     "static/css/main.8d556401.css",
-    "static/js/main.2bf67e71.js"
+    "static/js/main.aa1b8ca6.js"
   ]
 }
