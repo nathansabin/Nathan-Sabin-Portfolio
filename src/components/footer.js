@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import github from "../assets/images/GitHub.png";
 import linkedin from "../assets/images/linkedin.png";
 import instgram from "../assets/images/instagram.png";
+import email from "../assets/images/email.png";
 
 export default function Footer() {
     return (
@@ -16,6 +17,9 @@ export default function Footer() {
                     </a>
                     <a className="btn btn-link btn-floating btn-lg text-dark m-1" href="https://www.instagram.com/nathansabin777/?hl=en" role="button" data-mdb-ripple-color="dark">
                         <img src={instgram} style={{width: "30px", height: "auto"}} alt="instagram"/>
+                    </a>
+                    <a className="btn btn-link btn-floating btn-lg text-dark m-1" href="mailto:sabinnat001@gmail.com" role="button" data-mdb-ripple-color="dark">
+                        <img src={email} style={{width: "35px", height: "auto"}} alt="email"/>
                     </a>
                 </section>
             </div>

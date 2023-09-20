@@ -1,0 +1,88 @@
+.resume-format{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.pdf {
+    color: white;
+    border: 0px;
+    background-color: #BACBA9;
+    height: 100px;
+    width: 150px;
+    border-radius: 15px;
+}
+
+.pdf:hover {
+    background-color: #4F5749;
+    height: 105px;
+    width: 155px;
+}
+
+.hard-skills h2 {
+    width: 200px;
+    height: 45px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px;
+    background-color: #F1BF98;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+.hard-skills div {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 100px;
+}
+
+.hard-skills h4 {
+    width: 115px;
+    height: 70px;
+    padding: 15px;
+    border-radius: 15px;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    background-color: #BACBA9;
+}
+
+.list-box {
+    width: auto;
+    height: auto;
+    padding: 15px;
+    border-radius: 15px;
+    display: flex;
+    gap: 15px;
+    background-color: #6F7769;
+
+}
+
+.hard-skills ol {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: center;
+    justify-content: center;
+}
+
+.hard-skills ol li {
+    color: white;
+    width: 100px;
+    padding: 10px;
+    height: 35px;
+    border-radius: 15px;
+    background-color: #BACBA9;
+    justify-content: center;
+    align-items: center;
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    gap:15px;
+}
