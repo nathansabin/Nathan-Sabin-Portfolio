@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import nathan from '../../assets/images/portrait.png';
+import "./about.css";
 
 export default function About() {
     return (

@@ -1,0 +1,45 @@
+.bottom-page {
+    margin-bottom: 135px;
+}
+
+.email-format {
+    text-align: center;
+    display: block;
+    width: 90%;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 15px;
+    background-color:#BACBA9; 
+    border-radius: 15px;
+    padding:15px;
+}
+
+.email-info {
+    text-align: justify;
+    margin-bottom: 15px;
+    padding: 8px;
+    width: 95%;
+    height: auto;
+    border: 0;
+    background-color: #E1F4CB;
+    border-radius: 12px;
+}
+
+.email-message {
+    margin-bottom: 15px;
+    width: 95%;
+    padding:8px;
+    height: 200px;
+    border: 0;
+    background-color: #E1F4CB;
+    border-radius: 15px;
+}
+
+.email-button {
+    border: 0;
+    margin: auto;
+    width: 95px;
+    height: 55px;
+    background-color: #E1F4CB;
+    border-radius: 15px;
+}

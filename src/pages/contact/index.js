@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import "./contact.css";
 
 export default function Contact() {
     const [name, setName] = useState(false);

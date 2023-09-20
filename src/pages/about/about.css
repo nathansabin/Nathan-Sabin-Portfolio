@@ -1,0 +1,51 @@
+.box-set {
+    margin: -100px auto;
+    margin-bottom: 135px;
+    display: block;
+    width: 85%;
+    height: auto;
+}
+
+.image {
+    float: left;
+    width: 45%;
+    height: auto;
+    border-radius: 15px;
+    background-color: #F1BF98;
+    padding: 15px;
+    padding-top: 25px; 
+    margin-left: 3.5%; 
+    margin-top: 3%;
+    position: relative;
+}
+
+.portrait {
+    margin-bottom: 15px;
+    margin-top: 0;
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 50%;
+    background-color: #BACBA9;
+}
+
+.portrait img { 
+    width: 100%;
+    height: auto;
+}
+
+.box-about {
+    height: 80%;
+    width: 80%;
+    background-color: #BACBA9;
+    display: table-cell;
+    vertical-align: middle;
+    margin: 0 auto;
+    border-radius: 25px;
+}
+
+.about {
+    display: table;
+    font-size: 24px;
+    color: white;
+    margin: 5%;
+}
