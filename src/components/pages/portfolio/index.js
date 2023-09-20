@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 import eCommerce from '../../assets/images/eCommerce.jpg';
 import jate from '../../assets/images/Jate.jpg';
-import pokedex from '../../assets/images/pokedex.png';
+import pokedex from '../../assets/images/Pokedex.png';
 import readme from '../../assets/images/READMEGEN.png';
 import social from '../../assets/images/social-media odm.jpg';
 import astrolog from '../../assets/images/astrolog.png';
