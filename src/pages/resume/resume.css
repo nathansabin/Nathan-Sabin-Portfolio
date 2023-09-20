@@ -22,16 +22,16 @@
     width: 155px;
 }
 
-.hard-skills h2 {
+.hard-skills  h2 {
     width: 200px;
     height: 45px;
-    display: flex;
-    flex-direction: column;
     border-radius: 15px;
     background-color: #F1BF98;
     color: white;
-    justify-content: center;
+    display: flex;
+    flex-direction: row;
     align-items: center;
+    justify-content: center;
 }
 
 .hard-skills div {
@@ -85,4 +85,11 @@
     display: flex;
     flex-direction: column;
     gap:15px;
+}
+
+.tag-name {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0;
 }

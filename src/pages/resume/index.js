@@ -7,7 +7,9 @@ export default function Resume() {
         <div className='resume-format'>
             <a href={pdf}><button className="pdf">Resume PDF</button></a>
             <div className='hard-skills'>
-                <h2>Hard Skills</h2>
+                <nav className='tag-name'>
+                    <h2>Hard Skills</h2>
+                </nav>
                 <div className="list">
                     <ol className='list-box'>
                         <h4>MERN Stack</h4>
