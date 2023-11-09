@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Nathan-Sabin-Portfolio/static/css/main.715f2b53.css",
-    "main.js": "/Nathan-Sabin-Portfolio/static/js/main.4b7acfdb.js",
+    "main.css": "/Nathan-Sabin-Portfolio/static/css/main.348f929f.css",
+    "main.js": "/Nathan-Sabin-Portfolio/static/js/main.b33354bc.js",
     "static/media/portrait.png": "/Nathan-Sabin-Portfolio/static/media/portrait.ffc4807f0e478ad4f858.png",
     "static/media/Pokedex.png": "/Nathan-Sabin-Portfolio/static/media/Pokedex.59bef08f54473b1291e9.png",
     "static/media/eCommerce.jpg": "/Nathan-Sabin-Portfolio/static/media/eCommerce.6d5248a0e05635e542c1.jpg",
@@ -14,11 +14,11 @@
     "static/media/linkedin.png": "/Nathan-Sabin-Portfolio/static/media/linkedin.d2d74627d1c635c57971.png",
     "static/media/GitHub.png": "/Nathan-Sabin-Portfolio/static/media/GitHub.05525cd9027955dbe054.png",
     "index.html": "/Nathan-Sabin-Portfolio/index.html",
-    "main.715f2b53.css.map": "/Nathan-Sabin-Portfolio/static/css/main.715f2b53.css.map",
-    "main.4b7acfdb.js.map": "/Nathan-Sabin-Portfolio/static/js/main.4b7acfdb.js.map"
+    "main.348f929f.css.map": "/Nathan-Sabin-Portfolio/static/css/main.348f929f.css.map",
+    "main.b33354bc.js.map": "/Nathan-Sabin-Portfolio/static/js/main.b33354bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.715f2b53.css",
-    "static/js/main.4b7acfdb.js"
+    "static/css/main.348f929f.css",
+    "static/js/main.b33354bc.js"
   ]
 }
