@@ -4,21 +4,15 @@ import "./about.css";
 
 export default function About() {
     return (
-        <>
-            <div className='box-set'>
-                <div className='image portrait'>
-                        <img src={nathan} alt='nathan'></img>
+        <div className="container about-image ">
+            <div className="card mb-3 col-12 col-lg-8 mx-auto">
+                <img src={nathan} class="card-img-top" alt="nathan" />
+                <div class="card-body">
+                    <h5 className="card-title">About me</h5>
+                    <hr/>
+                    <p className="card-text">Innovative full-stack web developer that has an emphasis on back-end with a successful track record in management and a certificate in full-stack web development from UC Berkeley.</p>
                 </div>
             </div>
-            <div className='box-set'>
-                <div className='box-about'>
-                    <p className='about'>
-                    Welcome to my portfolio! I have been learning computer science and coding for over a year, this skill has become a great obsession for me. 
-                    I went through a 24-week full stack coding bootcamp, and before that, I spent time learning the basics of Python, C, and JS.
-                    My greatest interest is in back-end web development, but I have practiced front-end as well.
-                    </p>
-                </div>
-            </div>
-        </>
+        </div>
     )
 }
