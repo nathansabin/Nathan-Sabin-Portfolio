@@ -7,89 +7,32 @@
     gap: 10px;
 }
 
-.pdf {
+a .pdf {
+    border: none;
     color: white;
-    border: 0px;
-    background-color: #BACBA9;
-    height: 100px;
-    width: 150px;
-    border-radius: 15px;
-}
-
-.pdf:hover {
-    background-color: #4F5749;
-    height: 105px;
-    width: 155px;
-}
-
-.hard-skills  h2 {
-    width: 200px;
-    height: 45px;
-    border-radius: 15px;
     background-color: #F1BF98;
-    color: white;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
 }
-
-.hard-skills div {
-    display: flex;
-    flex-direction: row;
+.hard-skills {
     margin-bottom: 100px;
 }
 
-.hard-skills h4 {
-    width: 115px;
-    height: 70px;
-    padding: 15px;
-    border-radius: 15px;
+.heads th{
+    text-align: center;
+    background-color: white;
+}
+.tables tr :nth-child(even) {
+    background-color: #F1BF98;
     color: white;
-    justify-content: center;
-    align-items: center;
-    background-color: #BACBA9;
+    text-align: center;
 }
-
-.list-box {
-    width: auto;
-    height: auto;
-    padding: 15px;
-    border-radius: 15px;
-    display: flex;
-    gap: 15px;
-    background-color: #6F7769;
-
+.tables tr :nth-child(odd) {
+    background-color: #4F5749;
+    color:white;
+    text-align: center;
 }
-
-.hard-skills ol {
-    display: flex;
-    flex-direction: column;
-    gap: 5px;
-    align-items: center;
-    justify-content: center;
+.tables tr td:hover {
+    color:#F1BF98;
 }
-
-.hard-skills ol li {
-    color: white;
-    width: 100px;
-    padding: 10px;
-    height: 35px;
-    border-radius: 15px;
-    background-color: #BACBA9;
-    justify-content: center;
-    align-items: center;
-}
-
-.list {
-    display: flex;
-    flex-direction: column;
-    gap:15px;
-}
-
-.tag-name {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    margin: 0;
+.tables tr:hover {
+    background-color: white; 
 }
