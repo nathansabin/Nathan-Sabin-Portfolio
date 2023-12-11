@@ -1,0 +1,11 @@
+.page-layout {
+    margin-bottom: 135px;
+    width: 100%;
+}
+
+.img-con {
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}
