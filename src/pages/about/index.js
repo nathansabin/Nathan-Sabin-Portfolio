@@ -10,7 +10,7 @@ export default function About() {
                 <div class="card-body">
                     <h5 className="card-title">About me</h5>
                     <hr/>
-                    <p className="card-text">Innovative full-stack web developer that has an emphasis on back-end with a successful track record in management and a certificate in full-stack web development from UC Berkeley.</p>
+                    <p className="card-text">Innovative full-stack web developer that has an emphasis on front-end with a successful track record in management and a certificate in full-stack web development from UC Berkeley.</p>
                 </div>
             </div>
         </div>
