@@ -15,13 +15,13 @@ export default function Portfolio() {
         <div className='img-con'>
             <Work 
             title="AstroLog"
-            details="text"
+            details="This website allows users to create an account, generate horoscopes and tarot readings, and save them. You can then create journal entries where you can attach saved data. Finally, you can view all your entries."
             image={astrolog}
             github='https://github.com/allister-seras/AstroLog'
             />
             <Work 
             title="Book Search"
-            details='text'
+            details='The book search web app is a full-stack project that allows users to make a profile, login, logout, and save their favorite books.'
             image={bookSearch}
             deployed='https://book-searchql-19ac338b1f59.herokuapp.com'
             github='https://github.com/nathansabin/book-search'
@@ -36,22 +36,22 @@ export default function Portfolio() {
             />
             <Work 
             title="Jate PWA"
-            details="A PWA text editor that you can install"
+            details="This PWA web app allows you to write code while automatically saving progress. On top of being installable, this project works offline."
             image={jate}
-            deployed='https://github.com/nathansabin/text-editor-PWA'
-            github='https://jate-webapp-9936c0da971a.herokuapp.com'
+            deployed='https://jate-webapp-9936c0da971a.herokuapp.com'
+            github=' https://github.com/nathansabin/text-editor-PWA'
             />
         </div>
         <div className='img-con'>
             <Work 
             title="Social media back-end"
-            details="text"
+            details="This social media backend is a mockup of Twitter (X). You can create, read, and update 'thoughts'."
             image={social}
             github='https://github.com/nathansabin/social-network-ODM'
             />
             <Work 
             title="myPokedex"
-            details="text"
+            details="Mypokedex is a MVC web app that allows users to create an account and then create teams of their favorite pokemon."
             image={pokedex}
             deployed='https://dashboard.heroku.com/apps/my-pokedex'
             github='https://github.com/nathansabin/MyPokedex'
