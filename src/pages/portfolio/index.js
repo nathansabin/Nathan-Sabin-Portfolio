@@ -3,7 +3,7 @@ import './portfolio.css';
 
 import eCommerce from '../../assets/images/eCommerce.jpg';
 import jate from '../../assets/images/Jate.jpg';
-import pokedex from '../../assets/images/Pokedex.png';
+import artist from '../../assets/images/Artist-portfolio.png';
 import social from '../../assets/images/social-media odm.jpg';
 import astrolog from '../../assets/images/astrolog.png';
 import Work from '../../components/work';
@@ -14,10 +14,11 @@ export default function Portfolio() {
         <div className='page-layout'>
         <div className='img-con'>
             <Work 
-            title="AstroLog"
-            details="This website allows users to create an account, generate horoscopes and tarot readings, and save them. You can then create journal entries where you can attach saved data. Finally, you can view all your entries."
-            image={astrolog}
-            github='https://github.com/allister-seras/AstroLog'
+            title="Anapatsu Portfolio"
+            details="React website was made as a freelance project for an artist. It displays several different art styles and some animations; it also includes contact methods, social media, and an about me."
+            image={artist}
+            deployed='https://nathansabin.github.io/Anapatsuu-portfolio/'
+            github='https://github.com/nathansabin/Anapatsuu-portfolio'
             />
             <Work 
             title="Book Search"
@@ -49,12 +50,11 @@ export default function Portfolio() {
             image={social}
             github='https://github.com/nathansabin/social-network-ODM'
             />
-            <Work 
-            title="myPokedex"
-            details="Mypokedex is a MVC web app that allows users to create an account and then create teams of their favorite pokemon."
-            image={pokedex}
-            deployed='https://dashboard.heroku.com/apps/my-pokedex'
-            github='https://github.com/nathansabin/MyPokedex'
+             <Work 
+            title="AstroLog"
+            details="This website allows users to create an account, generate horoscopes and tarot readings, and save them. You can then create journal entries where you can attach saved data. Finally, you can view all your entries."
+            image={astrolog}
+            github='https://github.com/allister-seras/AstroLog'
             />
         </div>
         </div>
